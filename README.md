@@ -1,2 +1,2 @@
-# tensor-win-test
-Tensorflow Tests on Windows 
+# tensor-tests
+Tensorflow Tests - Fisrts Steps
